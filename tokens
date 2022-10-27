@@ -22,7 +22,8 @@ digi()
 {
  if(op==0)
  a=atof(yytext); 
-  
+  karthik.l
+
  else
  {
  b=atof(yytext);
